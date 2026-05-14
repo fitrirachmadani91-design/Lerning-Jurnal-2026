@@ -12,4 +12,4 @@ Catatan penting yang saya pelajari
 - GitHub bisa digunakan bukan hanya untuk kode, tetapi juga untuk menyimpan catatan kuliah dan progres belajar.
 - Setiap perubahan yang saya simpan akan tercatat sebagai *commit*, sehingga saya bisa melihat riwayat edit.
 - Penamaan file dengan .md (markdown) membuat catatan lebih rapi dan mudah dibaca di halaman GitHub.
-- Lanjutkan nonton tutorial vidio youtube.
+- Lanjutkan menonton tutorial youtube.
