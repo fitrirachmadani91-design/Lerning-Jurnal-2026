@@ -13,4 +13,3 @@ Catatan penting yang saya pelajari
 - Setiap perubahan yang saya simpan akan tercatat sebagai *commit*, sehingga saya bisa melihat riwayat edit.
 - Penamaan file dengan .md (markdown) membuat catatan lebih rapi dan mudah dibaca di halaman GitHub.
 - Lanjutkan menonton tutorial youtube.
-- Catat point pentingnya lagi setelah nonton tutorial.
