@@ -4,3 +4,4 @@ Rencana Belajar 2026
 - Mulai menyiapkan diri untuk tugas besar dan skripsi.
 - Lebih fokus lagi.
 - Banyak membaca.
+- Catat point penting dari bacaan.
